@@ -1,6 +1,6 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include "../kmymoney/kmymoney/wizards/newaccountwizard/ibanvalidator.h"
+#include "ibanvalidator.h"
 
 // free icons from "Developer Kit by Burak OZTURK", some modified - http://www.hadibe.com
 

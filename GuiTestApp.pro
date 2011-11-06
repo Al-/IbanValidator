@@ -12,10 +12,10 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-        ../kmymoney/kmymoney/wizards/newaccountwizard/ibanvalidator.cpp
+    ibanvalidator.cpp
 
 HEADERS  += mainwindow.h \
-        ../kmymoney/kmymoney/wizards/newaccountwizard/ibanvalidator.h
+    ibanvalidator.h
 
 FORMS    += mainwindow.ui
 
