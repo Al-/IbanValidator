@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026, Andreas Christ
+ * This file is part of "IbanValidator" and is licensed under the MIT License.
+ * See LICENSE file in the project root for full license information.
+ */
+
 #include "ibanvalidator.h"
 
 #include <QStringList>
